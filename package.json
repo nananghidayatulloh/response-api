@@ -1,0 +1,27 @@
+{
+  "name": "response-api",
+  "version": "1.0.0",
+  "description": "NodeJS — Make Your API Response Nicely",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nananghidayatulloh/response-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nananghidayatulloh/response-api/issues"
+  },
+  "homepage": "https://github.com/nananghidayatulloh/response-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
